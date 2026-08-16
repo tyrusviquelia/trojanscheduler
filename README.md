@@ -1,2 +1,2 @@
-# trojanschedulehelper
-Trojan Schedule Helper for USC
+# trojanscheduler
+Trojan Scheduler for USC
