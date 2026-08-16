@@ -1,4 +1,4 @@
-# Privacy Policy — Trojan Schedule Helper
+# Privacy Policy — Trojan Scheduler
 
 **Effective date:** August 14, 2026
 **Developer:** Tyrus Viquelia — USC '28 (unofficial student project)
@@ -47,4 +47,4 @@ Every feature that stores or fetches data can be turned off in the popup. You ca
 
 Questions about this policy: **tyrus.viquelia1@gmail.com** 
 
-*Trojan Schedule Helper is not affiliated with, endorsed by, or supported by the University of Southern California, RateMyProfessors, or Web3Forms.*
+*Trojan Scheduler is not affiliated with, endorsed by, or supported by the University of Southern California, RateMyProfessors, or Web3Forms.*
