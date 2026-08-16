@@ -45,6 +45,6 @@ Every feature that stores or fetches data can be turned off in the popup. You ca
 
 ## Contact
 
-Questions about this policy: **tyrus.viquelia1@gmail.com**
+Questions about this policy: **tyrus.viquelia1@gmail.com** 
 
 *Trojan Schedule Helper is not affiliated with, endorsed by, or supported by the University of Southern California, RateMyProfessors, or Web3Forms.*
