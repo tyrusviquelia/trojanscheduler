@@ -3,7 +3,7 @@
 **Effective date:** August 14, 2026
 **Developer:** Tyrus Viquelia — USC '28 (unofficial student project)
 
-Trojan Schedule Helper is a browser extension that adds professor ratings, seat availability, schedule tools, and planning features to USC's public class-search and Web Registration pages. It is built to work entirely inside your own browser.
+Trojan Scheduler is a browser extension that adds professor ratings, seat availability, schedule tools, and planning features to USC's public class-search and Web Registration pages. It is built to work entirely inside your own browser.
 
 ## The short version
 
